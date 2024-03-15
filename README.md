@@ -8,10 +8,11 @@ I'm a Full Stack developer and computer engineering student with a strong passio
 - Solidity 💡
 - HTML/CSS 🎨
 - SQL 📊
-- PHP 🚀
+- Bash 🚀
+- Rust ⚙
 - And more!
 
-I'm currently specializing in blockchain technology and everything related to its backend development. It's an exciting field that offers endless possibilities, and I'm committed to exploring its potential to the fullest.
+I'm currently specializing on blockchain technology and everything related to its backend development. It's an exciting field that offers endless possibilities, and I'm committed to exploring its potential to the fullest.
 
 One of my key strengths is Node.js, which I use to build robust and scalable backend solutions. Whether it's developing web applications, smart contracts, or database-driven systems, I'm always up for a challenge.
 
