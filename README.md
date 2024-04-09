@@ -1,4 +1,4 @@
-# Hi! I'm [amis13](https://amis13.github.io/) 💀
+# Hi! I'm amis13 💀
 
 I'm a Full Stack developer and computer engineering student with a strong passion for technology and innovation. My journey in the world of programming has led me to work with various languages and technologies, including:
 
