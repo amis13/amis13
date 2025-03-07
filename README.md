@@ -3,6 +3,7 @@
 I'm a Full Stack developer and computer engineering student with a strong passion for technology and innovation. My journey in the world of programming has led me to work with various languages and technologies, including:
 
 - JavaScript 🌐
+- Python 🐍
 - Solidity 💡
 - HTML/CSS 🎨
 - SQL 📊
