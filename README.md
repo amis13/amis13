@@ -1,14 +1,50 @@
-# Hi! I'm amis13 💀
+# 👋 Hi, I'm Ismael Salas (amis13)
 
-I'm a Full Stack developer and computer engineering student with a strong passion for technology and innovation. My journey in the world of programming has led me to work with various languages and technologies, including:
+> ⚡ DevOps & Blockchain Developer | 🔗 Node Operator | 🛡️ Script Kiddie
 
-- JavaScript 🌐
-- Python 🐍
-- Solidity 💡
-- HTML/CSS 🎨
-- SQL 📊
-- Bash 🚀
-- Rust ⚙
-- And more!
+---
 
-I'm currently specializing on blockchain technology and everything related to its backend development. It's an exciting field that offers endless possibilities, and I'm committed to exploring its potential to the fullest.
+## 🚀 About Me
+
+- 🎓 Computer Engineering student (UNED).  
+- 🐧 Passionate about **Linux, automation and infrastructure**.  
+- 🛠️ Experienced with **Python, Bash, Docker, Solidity, Web3**.  
+- 🌐 Running multiple **Ethereum L2 nodes** (Taiko, Kroma, zkSync, Scroll).  
+- 🔒 **Offensive Security & Pentesting**.  
+- 🤖 Exploring **AI & self-learning architectures**.  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Scripting**
+- Python (automation, Web3 bots, security tools)  
+- Bash (infrastructure scripting)  
+- Solidity (smart contracts: mixers, forwarders, NFTs)  
+
+**Infrastructure & DevOps**
+- Docker & Docker Compose (node deployment, services orchestration)  
+- Linux (Ubuntu/Debian server management, optimization)  
+- Certbot, systemd, automation. 
+
+**Blockchain & Web3**
+- Node operator on **Ethereum L2 networks**  
+- Flashbots / private mempools / MEV strategies  
+- Multi-wallet automation  
+
+**Cybersecurity**
+- Offensive Python scripting  
+- Offensive Bash scripting  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amis13&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amis13&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
+</p>
+
+---
+
+⭐ *Always building, automating, and securing systems — one script at a time.*  
