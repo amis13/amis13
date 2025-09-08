@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Ismael Salas (amis13)
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amis13/amis13/main/amis13_glitch.gif" alt="amis13 banner"/>
+</p>
 
-> ⚡ DevOps & Blockchain Developer | 🔗 Node Operator | 🛡️ Script Kiddie
+> ⚡ DevOps & Blockchain Developer | 🔗 Node Operator | 🛡️ Hacker
 
 ---
 
