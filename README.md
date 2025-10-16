@@ -12,7 +12,7 @@
 - 🎓 Computer Engineering student (UNED).  
 - 🐧 Passionate about **Linux, automation and infrastructure**.  
 - 🛠️ Experienced with **Python, Bash, Docker, Solidity, Web3**.  
-- 🌐 Running multiple **Ethereum L2 nodes** (Taiko, Kroma, zkSync, Scroll).  
+- 🌐 Running multiple **Ethereum L2 nodes** (Taiko, zkSync, Scroll).  
 - 🔒 **Offensive Security & Pentesting**.  
 - 🤖 Exploring **AI & self-learning architectures**.  
 
