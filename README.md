@@ -8,7 +8,6 @@
   DevOps • Blockchain • Automation • Security
 </p>
 
-
 ---
 
 <p align="center">
@@ -20,11 +19,11 @@
   </a>
 </p>
 
-## Who I Am
+## About Me
 
-Computer Engineering student focused on building reliable infrastructure, automating workflows, and exploring blockchain and security.
+Computer Engineering student focused on infrastructure, automation, blockchain, and security.
 
-I like working close to the system level: **Linux, containers, services, scripting, node operations, and security tooling**.
+I enjoy working close to the system level: **Linux, containers, services, scripting, node operations, and security tooling**.
 
 ---
 
@@ -46,6 +45,12 @@ I like working close to the system level: **Linux, containers, services, scripti
 
 ---
 
+## Certifications
+
+- **eJPT** — Junior Penetration Tester
+
+---
+
 ## Current Goals
 
 - Scale and automate blockchain infrastructure
@@ -55,12 +60,14 @@ I like working close to the system level: **Linux, containers, services, scripti
 
 ---
 
+## Contributions
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amis13&theme=react-dark&hide_border=true" alt="Contribution graph" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/amis13?style=for-the-badge&logo=github&label=Followers" alt="followers" />
-  <img src="https://img.shields.io/github/stars/amis13?style=for-the-badge&logo=github&label=Stars" alt="stars" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Docker%20%7C%20Solidity-6f42c1?style=for-the-badge" alt="stack" />
   <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Blockchain%20%7C%20Security-ff2e88?style=for-the-badge" alt="focus" />
 </p>
