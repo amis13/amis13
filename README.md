@@ -1,53 +1,66 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amis13/amis13/main/amis13_glitch.gif" alt="amis13 banner"/>
+  <img src="https://raw.githubusercontent.com/amis13/amis13/main/amis13_glitch.gif" alt="amis13 banner" width="800"/>
 </p>
 
-> ⚡ DevOps & Blockchain Developer | 🔗 Node Operator | 🛡️ Hacker
+<h1 align="center">Amis13</h1>
+<p align="center">
+  DevOps • Blockchain • Automation • Security
+</p>
+
 
 ---
-
-## 🚀 About Me
-
-- 🎓 Computer Engineering student (UNED).  
-- 🐧 Passionate about **Linux, automation and infrastructure**.  
-- 🛠️ Experienced with **Python, Bash, Docker, Solidity, Web3**.  
-- 🌐 Running multiple **Ethereum L2 nodes** (Taiko, zkSync, Scroll).  
-- 🔒 **Offensive Security & Pentesting**.  
-- 🤖 Exploring **AI & self-learning architectures**.  
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Scripting**
-- Python (automation, Web3 bots, security tools)  
-- Bash (infrastructure scripting)  
-- Solidity (smart contracts: mixers, forwarders, NFTs)  
-
-**Infrastructure & DevOps**
-- Docker & Docker Compose (node deployment, services orchestration)  
-- Linux (Ubuntu/Debian server management, optimization)  
-- Certbot, systemd, automation. 
-
-**Blockchain & Web3**
-- Node operator on **Ethereum L2 networks**  
-- Flashbots / private mempools / MEV strategies  
-- Multi-wallet automation  
-
-**Cybersecurity**
-- Offensive Python scripting  
-- Offensive Bash scripting  
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amis13&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amis13&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
+  <a href="https://github.com/amis13">
+    <img src="https://img.shields.io/badge/GitHub-amis13-181717?style=for-the-badge&logo=github" alt="GitHub badge"/>
+  </a>
+  <a href="https://x.com/amis13_sh">
+    <img src="https://img.shields.io/badge/X-@amis13_sh-000000?style=for-the-badge&logo=x&logoColor=white" alt="X badge"/>
+  </a>
 </p>
+
+## Who I Am
+
+Computer Engineering student focused on building reliable infrastructure, automating workflows, and exploring blockchain and security.
+
+I like working close to the system level: **Linux, containers, services, scripting, node operations, and security tooling**.
 
 ---
 
-⭐ *Always building, automating, and securing systems — one script at a time.*  
+## Core Areas
+
+- **DevOps & Infrastructure** — Docker, Linux servers, automation, service orchestration
+- **Blockchain & Web3** — Ethereum L2 nodes, Web3 tooling, smart contracts
+- **Security** — offensive scripting, pentesting labs, security automation
+- **Programming** — Python, Bash, Solidity, JavaScript/TypeScript
+
+---
+
+## Tech Stack
+
+**Languages:** Python, Bash, Solidity, JavaScript, TypeScript  
+**Infra:** Docker, Docker Compose, Linux, systemd, Nginx, Certbot  
+**Web3:** Ethereum, L2 nodes, wallet automation, smart contracts  
+**Security:** Offensive tooling, lab scripting, pentesting workflows  
+
+---
+
+## Current Goals
+
+- Scale and automate blockchain infrastructure
+- Build useful DevOps and security tooling
+- Keep learning through hands-on projects
+- Ship more public repositories and technical writeups
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amis13&theme=react-dark&hide_border=true" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/amis13?style=for-the-badge&logo=github&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/amis13?style=for-the-badge&logo=github&label=Stars" alt="stars" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%7C%20Blockchain%20%7C%20Security-ff2e88?style=for-the-badge" alt="focus" />
+</p>
