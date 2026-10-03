@@ -47,7 +47,8 @@ I enjoy working close to the system level: **Linux, containers, services, script
 
 ## Certifications
 
-- **eJPT** — Junior Penetration Tester
+- [**eJPT**](https://certs.ine.com/99a3e6e7-425a-4703-8b99-29fd084f9656#acc.DmAOVNyF) — Junior Penetration Tester
+- [**eCPPT**](https://certs.ine.com/4611959a-2c10-48c5-80dd-5f95d579136d#acc.DzLxvmcA) — Certified Professional Penetration Tester
 
 ---
 
